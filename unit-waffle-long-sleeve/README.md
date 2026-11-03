@@ -1,4 +1,4 @@
-# Waffle Knit Unit
+# Unit Waffle Long Sleeve
 
 STOCKA UNIT waffle-knit long sleeve: design files and reference.
 
